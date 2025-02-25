@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import packages
+import os.path as op # path
 
 subj = 'IAM_DEV_001' # subject name
 
